@@ -1,0 +1,3 @@
+[submodule "ConsoleApplication/mod_hello"]
+	path = ConsoleApplication/mod_hello
+	url = https://github.com/regulus-maeda/mod_hello.git
